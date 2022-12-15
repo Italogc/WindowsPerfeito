@@ -9,7 +9,7 @@ Todos os seus drivers originais e atualizados e livres de virus eternamente
      Essa licença é totalmente gratuita e vitalícia, a microsoft não é conivente com sua venda de nenhuma forma, porisso ninguém ainda foi maluco de tentar vendê-lo, pois isso poderia acarretar para o sujeito multas altíssimas por parte da própria parte jurídica da Microsoft.
      Por ser vitalícia, se você sincronizar no seu windows10 o seu login do hotmail como seu usuário principal, todas as vezes no futuro que você formatar ou comprar um novo computador, mesmo que você ignore todas partes de inserir uma chave de ativação na instalação do seu novo Windows10, quando você botar seu login hotmail já ativado anteriormente por este software como usuário principal, quando o seu windows iniciar ele já estará como "ativado original"; e isso é perfeito, não é? Use este software sempre que precisar, e caso veja alguém vendendo não exite em denunciar o vendedor nos fóruns oficiais da própria Microsoft.
      
-     
+Download Gratuito no arquivo zipado dessa página com o nome "win10at+sct"
      
 
 "SUPERCLEANTEMP BAT"
@@ -17,7 +17,12 @@ Todos os seus drivers originais e atualizados e livres de virus eternamente
 2° - Se seu windows10 já é original e está muito lento ou pesado, pode ser memória de cachê do seu sistema lotada ou com algum malware injetado e escondido na sua pasta "temp" ou "prefetch" do seu windows sem que você tenha ciência desta inconveniência; porisso que a comunidade de hackers voluntários do windows criaram um pequeno arquivo BATHUS (.bat) com um código bem simples mas potencialmente importante para sua alegria e tristeza dos "crackers" (hackers do mal que criam os virus que só nos ferram), pois a única coisa que você precisará é executar este arquivo como "administrador" que o seu terminal CMD do seu Windows fará todo o processo de exclusão e limpeza destes arquivos desnecessários e ocultos de malwares do seu sistema de forma automatizada e, depois de deletar os virus, vai abrir na sua tela todas essas pastas ocultas de despejo de lixo do seu windows (temp, tmp, recent, prefetch) para que você mesmo limpe tudo nelas manualmente, não se preocupe, pode dar CTRL+A para selecionar tudo dentro de cada pasta e mandar excluir tudo, depois disso você terá um pc muito mais leve e sem nenhum incômodo escondido te travando.
      Caso ainda continue tendo travas, recomendo deletar qualquer programa antivírus no seu pc, porque programas antivirus não desenvolvem muito bem o seu propósito porque tem muitos trojans que são desenvolvidos para burlarem a proteção de tais programas, e são potencialmente mais perigosos dos demais que os antivirus detectam, porisso recomendo que delete tudo do seu computador e use apenas o SUPERCLEANTEMP.bat sempre ao ligar/desligar seu computador, e para remoção mais concreta de malwares, trojans, adwares, flywares, etc, recomendo que você faça download do "MalwareBytes ADW-Cleaner" que executado como administrador ele fará uma varredura completa dos locais mais secretos e remotos e de cada arquivinho no seu computador e o que apresentar alguma "ameaça" para seu aparelho o programa vai listar para você cada um e imediatamente botar em quarentena para que você possa decidir o que excluir de fato ou deixar em quarentena.
      Esse programa é um "soft-executável" ou seja, baixou no pc, executou, fechou o programa e acabou. Ele não instala nenhuma pasta no seu computador e não precisa instalar nada para que funcione, isso para justamente que seus malwares no seu pc não possam corromper sua ação massiva de limpeza avançada. Esse "MalwareBytes ADW-Cleaner" é totalmente gratuito e é atualizado freqüentemente, portanto o recomendável é sempre fazer o seu download no site oficial do seu fabricante oficial abaixo (MalwareBytes inc.). 
+     
+AdwCleaner:
 https://downloads.malwarebytes.com/file/adwcleaner
+
+SuperCleanTemp (sct):
+Download Gratuito no arquivo zipado dessa página com o nome "win10at+sct"
      
 
 
